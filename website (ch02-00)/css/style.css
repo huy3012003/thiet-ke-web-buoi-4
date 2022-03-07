@@ -1,0 +1,86 @@
+#footer{
+    background-color: #ccc;
+    background-image: url(../images/bg-footer.jpg);
+}
+.showcase .button:hover{
+    background-color: #00acdf;
+}
+   
+.button:hover{
+    background-color: #d4326d;
+}
+#newsletter{
+    border: rgba(0,0,0,0.1) solid 5px;
+    color:white;
+    background-color: #00acdf;
+}
+.button rule set{
+border-radius: 8px;
+border: 2px solid white;
+}
+#header nav>ul{
+    border-radius: 20px;
+    border: 1px solid #ccc;
+}
+.showcase{
+    box-shadow: 0 -3px 8px 0 #ccc;
+}
+#header nav>ul>il{
+    background: white;
+}
+.showcase rule set{
+    background: #f5f5f5;
+}
+#header{
+    margin: 0 0 2em 0;
+}
+#header .lolgo{
+    margin: 2.4em 0;
+}
+#header nav{
+    margin-top: 2em;
+}
+#content rule set{
+    margin: o auto;
+}
+.container{
+    max-width: 920px;
+    margin: 0 auto;
+}
+input[type=”submit”]
+[class=”button”] rule set{
+    margin: 2em auto 1em;
+}
+aside{
+    margin: 0 0 2em 0;
+}
+.rule set aside > h3{
+    margin: 0 0 1.6em 0;
+}
+#content h1, #content h2, #content h3, #content 
+h4 {
+    margin: 0 0 1.6em 0;
+}
+#content p, #content ul{
+    margin:0 0 1.25em 0; 
+}
+blockquote cite{
+    margin: 0.625em 
+0 0 0;
+}
+#newsletter h3{
+    margin: 0 0 1em 0;
+}
+#newsletter label{
+    margin: 1.5em 
+    0 0 0;
+}
+.aside{
+    margin: 0 0 2em 0;
+}
+.post h3{
+    margin: 0 0 1em 0;
+}
+.post img{
+    margin: 0 .5em 0 0;
+}
